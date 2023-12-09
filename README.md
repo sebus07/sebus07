@@ -4,11 +4,11 @@
 Je suis passionné par le développement et la conception web, et j'aime apprendre de nouvelles technologies.
 
 ## 👨‍💻 En ce moment
-Actuellement, je suis en formation chez OpenClassroom pendant 9 mois, où je développe mes compétences en développement web. Je me concentre particulièrement sur l'apprentissage de WordPress pour la création de sites web dynamiques et fonctionnels.
+Actuellement, je suis en formation chez OpenClassroom depuispendant 9 mois, où je développe mes compétences en développement web. Je me concentre particulièrement sur l'apprentissage de WordPress pour la création de sites web dynamiques et fonctionnels.
 
 J'ai également eu l'occasion d'explorer diverses technologies telles que Symfony, HTML5, CSS3, JavaScript, MySQL, PHP, Bootstrap, et bien d'autres au cours de ma formation. Mon objectif est de fusionner ces connaissances pour créer des projets web robustes et innovants.
 
-
+N'hésitez pas à explorer mes projets sur GitHub pour voir comment j'applique ces compétences dans des contextes réels.
 ## 🔧 Pile technologique
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)

@@ -1,4 +1,4 @@
-# 👋 Bonjour, je suis Sébastien Koenig
+# 👋 Bonjour, je suis Sébastien Koenig.
 
 ## 👀 À propos de moi
 Je suis passionné par le développement et la conception web, et j'aime apprendre de nouvelles technologies.

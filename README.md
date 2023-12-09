@@ -22,6 +22,6 @@ N'hésitez pas à explorer mes projets sur GitHub pour voir comment j'applique c
 Vous pouvez me contacter via [LinkedIn](https://www.linkedin.com/in/koenig-s%C3%A9bastien/).
 
 ## ✅ Statistiques GitHub
-![](lien_vers_image_statistiques_githttps://github-readme-stats.vercel.app/api?username=sebus07&theme=react&hide_border=true&include_all_commits=false&count_private=falsehub)
-![](https://github-readme-streak-stats.herokuapp.com/?user=sebus07&theme=react&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sebus07&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](lien_vers_image_statistiques_githttps://github-readme-stats.vercel.app/api?username=sebus07&theme=react&hide_border=true&include_all_commits=false&count_private=falsehub) 
+![](https://github-readme-streak-stats.herokuapp.com/?user=sebus07&theme=react&hide_border=true) 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sebus07&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact) 
